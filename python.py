@@ -1,7 +1,7 @@
 #My jupyter book on IBM waston studio
-#CHARAPU MONIKA
-#I am interested in data science because i love to gain insights from data
-#the following code tests the factorial of a number
+##CHARAPU MONIKA
+###I am interested in data science because i love to gain insights from data
+####the following code tests the factorial of a number
 num = int(input("Enter a number: "))    
 factorial = 1    
 if num < 0:    
